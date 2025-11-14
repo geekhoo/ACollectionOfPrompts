@@ -1,5 +1,5 @@
 ---
-mode: agent
+agent: agent
 ---
 Perform git commit, using `COMMIT_MESSAGE_TEMPLATE` as the commit message template.
 
