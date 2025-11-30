@@ -155,3 +155,16 @@ This directory contains comprehensive prompts and custom agent definitions for c
 ✅ Task monitoring with session logs and PR tracking
 ✅ Mid-execution steering via `@copilot` mentions
 ✅ Multi-agent collaboration workflows
+
+```
+old notes [**IGNORE**]:
+Compare this snippet from Review/github-copilot-custom-agents-template.md:search for vscode copilot chat best practices on prompting LLM
+
+identify how to generate a clear and complete prompt for LLM to review codebase, the LLM will be provided with the codebase, the initial spec requirements, the plan and execution summary
+
+the prompt MUST instruct vscode copilot to clearly analyse those documents and codebase, and to use tools available to test and validate implementation of spec requirements. 
+
+the prompt also MUST request the output of the review to be a comprehensive markdown report (please search web for best practices of such review report)
+
+websearch for references and syntax of custom agent file for github copilot, it must be the latest and find examples of agents and task specific subagents, and understand how custom agents definition markdown files are written, the best practices, tips and tricks. read this https://docs.github.com/en/copilot/reference/custom-agents-configuration read this https://docs.github.com/en/copilot/tutorials/customization-library/custom-agents read this https://docs.github.com/en/copilot/how-tos/use-copilot-agents/coding-agent/create-custom-agents ultrathink about how to create a custom agent for code review of a complex saas application that includes multiple modules, services, and integrations.
+```

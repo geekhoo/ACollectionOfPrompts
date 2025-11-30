@@ -1,7 +1,6 @@
 ---
-name: <Agent Name>
-description: >
-  <1–2 sentence summary of the agent’s purpose, primary domain, and key limitations.>
+name: <agent-name-here-without-spaces-or-special-characters>
+description: <1–2 sentence summary of the agent’s purpose, primary domain, and key limitations.>
 tools:
   # Choose only what this agent truly needs; remove others.
   - read
