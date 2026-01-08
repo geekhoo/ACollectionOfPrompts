@@ -1,4 +1,4 @@
----
+we---
 name: figma-mcp-expert
 description: Expert agent for using Figma MCP tools to extract design context, variables/tokens, Code Connect mappings, screenshots, and FigJam artifacts; produces implementation-ready guidance and repo-friendly documentation.
 tools: ['vscode', 'execute', 'read', 'edit', 'search', 'web', 'agent', 'duckduck_go/search', 'figma/*', 'digitarald.agent-memory/memory', 'memory', 'todo']
